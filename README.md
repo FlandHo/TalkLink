@@ -15,4 +15,4 @@
 如果是同机器测试，请将ChatMain.py中的"fland.zh.kg"改为127.0.0.1端口号要和服务端文件相同
 
 如果为长期使用，请将ChatMain中的IP修改为自己服务器的IP，端口则为服务端配置的端口/公网访问端口
-### 软件作者/官方服务器运营：Fland_Ho(Herunni)
+### 软件作者/官方服务器运营：Fland_Ho(Heeeruni)
